@@ -19,8 +19,6 @@ LIMIT 1");
  	<META NAME="description" CONTENT="Welcome to the Chuck Norris facts randomize. This site is strictly approved by Chuck Norris.">
 	<META NAME="keywords" CONTENT="chuck,norris,chuck norris,facts,fact,quote">
 	<META NAME="robot" CONTENT="index,follow">
-	<META NAME="copyright" CONTENT="Copyright © 2014 eezpal Hosting. All Rights Reserved.">
-	<META NAME="author" CONTENT="Lahiru Himesh Madusanka">
 	<META NAME="language" CONTENT="en">
 	<META NAME="revisit-after" CONTENT="1">
  </head>
