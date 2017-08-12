@@ -1,4 +1,4 @@
-Chuck Norris Approves
+# Chuck Norris Approves
 
 
 Small PHP script that was written long ago to randomize Chuck Norris Facts. Database is included in the `db` folder.
